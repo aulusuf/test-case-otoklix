@@ -1,0 +1,13 @@
+Build simple web to manage blog posts of blog, for the API docs please refer to this
+https://documenter.getpostman.com/view/14565441/UV5TFzFx 
+Test Expectations 
+1. There will be pages for 
+    a. Show all Posts 
+    b. Show a Post 
+    c. Create new Post 
+    d. Update existing Post 
+    e. Delete existing Post 
+2. Please use ReactJS and Bootstrap templates (or other framework). Using nextjs will be plus points 
+3. Using SSR will be plus points 
+4. Adding unit test will be plus points 
+5. Please put the source code in your gitlab or github public repo
